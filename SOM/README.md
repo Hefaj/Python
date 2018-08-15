@@ -1,4 +1,6 @@
 
+# (Samoorganizująca się mapa) Self-Organized Map 
+
 
 ```python
 import numpy as np
@@ -115,25 +117,25 @@ som.train()
 ```
 
 
-![png](output_2_0.png)
+![png](output_3_0.png)
 
 
 
-![png](output_2_1.png)
+![png](output_3_1.png)
 
 
 
-![png](output_2_2.png)
+![png](output_3_2.png)
 
 
 
-![png](output_2_3.png)
+![png](output_3_3.png)
 
 
 
-![png](output_2_4.png)
+![png](output_3_4.png)
 
 
 
-![png](output_2_5.png)
+![png](output_3_5.png)
 
