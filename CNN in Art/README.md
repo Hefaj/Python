@@ -1,0 +1,1 @@
+Konwolucyjna sieæ neuronowa przekszta³caj¹ca zdjêcia.
