@@ -1,0 +1,18 @@
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\bin\Debug\Arkad.exe.config
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\bin\Debug\Arkad.exe
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\bin\Debug\Arkad.pdb
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\obj\Debug\Arkad.csprojResolveAssemblyReference.cache
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\obj\Debug\Arkad.Form1.resources
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\obj\Debug\Arkad.Properties.Resources.resources
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\obj\Debug\Arkad.csproj.GenerateResource.Cache
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\obj\Debug\Arkad.exe
+c:\users\hefaj\documents\visual studio 2017\Projects\Arkad\Arkad\obj\Debug\Arkad.pdb
+C:\Users\hefaj\Desktop\Arkad\Arkad\bin\Debug\Arkad.exe.config
+C:\Users\hefaj\Desktop\Arkad\Arkad\bin\Debug\Arkad.exe
+C:\Users\hefaj\Desktop\Arkad\Arkad\bin\Debug\Arkad.pdb
+C:\Users\hefaj\Desktop\Arkad\Arkad\obj\Debug\Arkad.csprojResolveAssemblyReference.cache
+C:\Users\hefaj\Desktop\Arkad\Arkad\obj\Debug\Arkad.Form1.resources
+C:\Users\hefaj\Desktop\Arkad\Arkad\obj\Debug\Arkad.Properties.Resources.resources
+C:\Users\hefaj\Desktop\Arkad\Arkad\obj\Debug\Arkad.csproj.GenerateResource.Cache
+C:\Users\hefaj\Desktop\Arkad\Arkad\obj\Debug\Arkad.exe
+C:\Users\hefaj\Desktop\Arkad\Arkad\obj\Debug\Arkad.pdb
