@@ -1,1 +1,3 @@
-Konwolucyjna sieæ neuronowa przekszta³caj¹ca zdjêcia.
+Konwolucyjna sieÄ‡ neuronowa przeksztaÅ‚cajÅ¡ca zdjÄ™cia.
+
+![background](img/steps.gif)
